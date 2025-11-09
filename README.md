@@ -1,8 +1,5 @@
-# Programmatic-Data-Wrangling---TMDB
+# Programmatic-Data-Wrangling---TMDB 🎬
 ### 'Analyse the TMDB data to highlight some factors contributing to the success of a movie'
-
-Project Title: Programmatic Data Wrangling - TMDB Movie Success Analysis 🎬
-
 Author: Hena Naeem
 
 Project Goal:
